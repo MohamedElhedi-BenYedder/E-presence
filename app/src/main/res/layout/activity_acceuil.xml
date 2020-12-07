@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:backgroundTint="#DF8585"
+     >
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="243dp"
+        android:layout_height="209dp"
+        app:srcCompat="@drawable/logo7"
+        tools:layout_editor_absoluteX="77dp"
+        tools:layout_editor_absoluteY="51dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:text="E-Presence"
+        android:textColor="#251615"
+        android:textSize="36dp"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="504dp"
+        android:layout_marginTop="220dp"/>
+    <!-- <EditText
+         android:id="@+id/editTextTextPersonName4"
+
+         android:layout_width="278dp"
+         android:layout_height="95dp"
+         android:text="E-Presence"
+         android:ems="10"
+         android:fontFamily="sans-serif-black"
+         android:textColor="#DA8E8E"
+         android:textAlignment="center"
+
+
+         android:textSize="36sp"
+         tools:layout_editor_absoluteX="77dp"
+         tools:layout_editor_absoluteY="553dp"
+
+         tools:layout_editor_absoluteY="637dp"
+         tools:layout_editor_absoluteY="628dp"
+
+
+
+         android:textSize="36sp"
+         tools:layout_editor_absoluteX="65dp"
+         tools:layout_editor_absoluteY="627dp" />!-->
+</LinearLayout>

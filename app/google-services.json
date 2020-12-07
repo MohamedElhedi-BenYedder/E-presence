@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078995944469",
+    "firebase_url": "https://authentification-1c4ab.firebaseio.com",
+    "project_id": "authentification-1c4ab",
+    "storage_bucket": "authentification-1c4ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078995944469:android:4979078096d7f2ebeffa1c",
+        "android_client_info": {
+          "package_name": "tn.supcom.autentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078995944469-itaj4lo31qprap7k3no192n657j6menh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQS9U2VmY_3mpx8uWu7NqFHMCNjpVbaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078995944469-itaj4lo31qprap7k3no192n657j6menh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
